@@ -6,7 +6,7 @@ import { faCheck, faCogs, faSadCry, faTrashAlt } from '@fortawesome/free-solid-s
 
 class App extends Component {
   state = {
-    todo: ["sd"],
+    todo: [],
     doing: [],
     done: []
   }
